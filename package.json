@@ -1,17 +1,18 @@
 {
-	"name": "@yodasws/webtoolkit",
+	"name": "@Communio-Templorum/curia-guide",
+	"private": true,
 	"version": "0.3.0",
 	"description": "Sam Grundman's Super Awesome Gulp Web Development Toolkit",
 	"main": "gulpfile.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/YodasWs/webtoolkit.git"
+		"url": "git+https://github.com/Communio-Templorum/curia-guide"
 	},
-	"author": "Samuel B Grundman (https://github.com/YodasWs/)",
+	"author": "Samuel B Grundman (https://github.com/Communio-Templorum/)",
 	"bugs": {
-		"url": "https://github.com/YodasWs/webtoolkit/issues"
+		"url": "https://github.com/Communio-Templorum/curia-guide/issues"
 	},
-	"homepage": "https://github.com/YodasWs/webtoolkit#readme",
+	"homepage": "https://github.com/Communio-Templorum/curia-guide#readme",
 	"devDependencies": {
 		"@babel/core": "^7.20.2",
 		"@babel/preset-env": "^7.20.2",
