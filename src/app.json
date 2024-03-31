@@ -2,5 +2,9 @@
 	"name": "@Communio-Templorum/curia-guide",
 	"components": [],
 	"sections": [],
-	"pages": []
+	"pages": [
+		"what",
+		"welcome",
+		"meetingFormat"
+	]
 }
