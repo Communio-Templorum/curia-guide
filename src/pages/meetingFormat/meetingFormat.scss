@@ -1,3 +1,5 @@
 [y-page='pageMeetingFormat'] {
-	/* SCSS Goes Here */
+	li > p {
+		margin-inline-start: 20px;
+	}
 }
