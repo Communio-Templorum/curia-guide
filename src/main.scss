@@ -81,3 +81,14 @@ a:visited {
 		display: none;
 	}
 }
+
+ol,
+ol ol {
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+}
+
+ol > li,
+ul > li {
+	margin-block-end: 1em;
+}
