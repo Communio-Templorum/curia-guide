@@ -1,5 +1,5 @@
 yodasws.page('pageWhat').setRoute({
-	title: 'what',
+	title: 'What is a Curia?',
 	template: 'pages/what/what.html',
 	canonicalRoute: '/what/',
 	route: '/what/?',

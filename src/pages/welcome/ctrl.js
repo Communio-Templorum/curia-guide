@@ -1,5 +1,5 @@
 yodasws.page('pageWelcome').setRoute({
-	title: 'welcome',
+	title: 'Welcoming new members',
 	template: 'pages/welcome/welcome.html',
 	canonicalRoute: '/welcome/',
 	route: '/welcome/?',

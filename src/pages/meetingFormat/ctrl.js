@@ -1,5 +1,5 @@
 yodasws.page('pageMeetingFormat').setRoute({
-	title: 'meeting format',
+	title: 'Meeting format',
 	canonicalRoute: '/meetingFormat/',
 	template(match, ...p) {
 		const path = p.join('/').replace(/\/+/g, '/').replace(/^\/|\/$/g, '').split('/').filter(p => p != '');
